@@ -1,0 +1,48 @@
+.header-flat {
+  background-color: white;
+}
+
+.header-flat p {
+  font-size: 14px;
+}
+
+.header-flat-detail {
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.header-flat-owner {
+  color: rgba(0, 0, 0, 0.4);
+  padding: 20px;
+}
+
+.img-sm {
+  height: 80px;
+  width: 80px;
+}
+
+.header-flat-name{
+  padding-left: 20px;
+}
+
+.header-flat-name h1 {
+  font-weight: bolder;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.header-flat-name p {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.header-flat form {
+  margin: 20px 0;
+  background: #F4F4F4;
+  padding: 30px;
+  border-radius: 3px;
+}
+
+#btn-full {
+  width: 100%;
+}

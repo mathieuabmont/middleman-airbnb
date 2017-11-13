@@ -1,0 +1,19 @@
+.flat-description ul {
+  list-style: none;
+}
+
+.flat-description p, li {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.flat-description h1 {
+  font-weight: bolder;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.flat-description-first-row {
+  display: flex;
+  justify-content: space-between;
+}
